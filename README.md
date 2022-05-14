@@ -1,4 +1,4 @@
-[<div align=left><img alt="Tela de Exemplo - Jogo da Forca" src="https://user-images.githubusercontent.com/53992405/163100407-085d2a83-968e-4ff4-8918-67818414ee54.png" height="200" width="300"/></div>][jogodaforca]
+<div align=left><img alt="Tela de Exemplo - Jogo da Forca" src="https://user-images.githubusercontent.com/53992405/163100407-085d2a83-968e-4ff4-8918-67818414ee54.png" height="200" width="300"/></div>][jogodaforca]
 
 # Cliente-Servidor-JogoDaForca_Java
 
@@ -18,10 +18,10 @@ Feel free to send suggestions, provide tips or even rebuild the code.
 
 #### Networks Gabriel:
 
-[<img alt="GitHub followers Gabriel" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>][github]
+[<img alt="GitHub followers Gabriel" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>](https://github.com/PuniGC)
 [<img alt="Instagram Gabriel" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram.com/gabrielsants_dev/" height="22" />](https://www.instagram.com/gabrielsants_dev/)
-[<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />][email]
-[<img alt="Linkedin Gabriel" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />][linkedin]
+[<img alt="Mail to Gabriel" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="gabriel04.ok@gmail.com" />](mailto:gabriel04.ok@gmail.com)
+[<img alt="Linkedin Gabriel" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/" height="22" />](https://www.linkedin.com/in/gabriel-santana-silva-1205461a3/)
 
 #### Networks Maria:
 
