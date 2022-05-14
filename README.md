@@ -42,6 +42,6 @@ Feel free to send suggestions, provide tips or even rebuild the code.
 
 ## License
 
-This project is licensed under the [MIT License][license].
+/*This project is licensed under the [MIT License][license].*/
 
 ---
