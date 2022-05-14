@@ -10,6 +10,12 @@ Pretendemos, assim que possível, refatorar todo o código, de forma a melhorar 
 
 Feel free to send suggestions, provide tips or even rebuild the code.
 
+#### Networks Munir:
+
+[<img alt="GitHub followers Munir" src="https://img.shields.io/github/followers/munirbisteni?label=Follow&style=social" height="22" title="Follow me"/>](https://github.com/munirbisteni)
+[<img alt="Mail to Munir" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="munir.mlcb@gmail.com" />](mailto:munir.mlcb@gmail.com)
+[<img alt="Linkedin Munir" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munir-lucio-da-costa-bisteni-2b7354229/" height="22" />](https://www.linkedin.com/in/munir-lucio-da-costa-bisteni-2b7354229/)
+
 #### Networks Gabriel:
 
 [<img alt="GitHub followers Gabriel" src="https://img.shields.io/github/followers/PuniGC?label=Follow&style=social" height="22" title="Follow me"/>][github]
@@ -26,11 +32,6 @@ Feel free to send suggestions, provide tips or even rebuild the code.
 [<img alt="GitHub followers Taylor" src="https://img.shields.io/github/followers/taylorburgues?label=Follow&style=social" height="22" title="Follow me"/>](https://github.com/taylorburgues)
 [<img alt="Instagram Taylor" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=instagram.com/theo_burgues/" height="22" />](https://www.instagram.com/theo_burgues/)
 
-#### Networks Munir:
-
-[<img alt="GitHub followers Munir" src="https://img.shields.io/github/followers/munirbisteni?label=Follow&style=social" height="22" title="Follow me"/>](https://github.com/munirbisteni)
-[<img alt="Mail to Munir" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="munir.mlcb@gmail.com" />](mailto:munir.mlcb@gmail.com)
-[<img alt="Linkedin Munir" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/munir-lucio-da-costa-bisteni-2b7354229/" height="22" />](https://www.linkedin.com/in/munir-lucio-da-costa-bisteni-2b7354229/)
 
 ## Equipe
 
